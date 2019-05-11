@@ -2,6 +2,6 @@
     <string name="app_name">DisableCamera2</string>
     <string name="disable_camera">Disable camera</string>
     <string name="enable_camera">Enable camera</string>
-    <string name="device_admin_label">Device admin</string>
+    <string name="device_admin_label">DisableCamera2</string>
     <string name="device_admin_description">Allows the application to enable/disable the camera.</string>
 </resources>
