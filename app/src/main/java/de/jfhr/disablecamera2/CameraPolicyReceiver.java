@@ -1,4 +1,4 @@
-package com.jfhr.disablecamera2;
+package de.jfhr.disablecamera2;
 
 import android.app.admin.DeviceAdminReceiver;
 import android.content.Context;

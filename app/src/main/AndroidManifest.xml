@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.jfhr.disablecamera2">
+          package="de.jfhr.disablecamera2">
 
     <application
             android:allowBackup="true"
@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="com.jfhr.disablecamera2.CameraPolicyReceiver"
+        <receiver android:name="de.jfhr.disablecamera2.CameraPolicyReceiver"
                   android:label="@string/device_admin_label"
                   android:description="@string/device_admin_description"
                   android:permission="android.permission.BIND_DEVICE_ADMIN">

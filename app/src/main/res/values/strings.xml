@@ -4,4 +4,6 @@
     <string name="enable_camera">Enable camera</string>
     <string name="device_admin_label">DisableCamera2</string>
     <string name="device_admin_description">Allows the application to enable/disable the camera.</string>
+    <string name="logs_intro">Logs will show up here</string>
+    <string name="stream_button">Stream (UDP)</string>
 </resources>
